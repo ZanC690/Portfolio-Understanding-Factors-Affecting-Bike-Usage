@@ -1,5 +1,5 @@
 Project Title
-Understanding Factors Affecting Bike Usage
+- Understanding Factors Affecting Bike Usage
 
 Introduction / Overview
 Yulu is India's leading micro-mobility service provider, which offers unique vehicles for daily commute. With the mission to eliminate traffic congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo, and sustainable commuting.
