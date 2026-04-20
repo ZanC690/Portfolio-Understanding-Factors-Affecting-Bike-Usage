@@ -26,6 +26,3 @@ Key Findings:
 - Misty weather has negative effect on bike rentals.
 - Light precipitation weather and windspeed have weak negative effects on bike rentals.
 - Heteroscedasticity and non-normal residuals were found in the dataset. After log transformation, residuals are normalized but heteroscedasticity persists.
-
-How to Run:
-- Open the notebook file (Yulu Bikes.ipynb) in Jupyter Notebook or JupyterLab.
